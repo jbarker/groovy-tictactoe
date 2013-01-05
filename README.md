@@ -65,13 +65,17 @@ Development
 
 Developed with:
 
-* [Groovy](http://groovy.codehaus.org/) 1.8.6
-* [Gradle](http://www.gradle.org/) 1.0-rc-3
-* [JUnit](http://junit.org/) 4.10
+* [Groovy](http://groovy.codehaus.org/) 2.0.6
+* [Gradle](http://www.gradle.org/) 1.3
+* [JUnit](http://junit.org/) 4.11
 
 
 Release History
 ---------------
+
+0.9.1 - 05 January 2013
+
+* Upgraded dependencies.
 
 0.9.0 - 14 May 2012
 
