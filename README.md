@@ -3,6 +3,8 @@ Groovy Tic-Tac-Toe
 
 The game Tic-Tac-Toe (Noughts & Crosses) written in Groovy.
 
+[![Build Status](https://travis-ci.org/jbarker/groovy-tictactoe.png?branch=master)](https://travis-ci.org/jbarker/groovy-tictactoe)
+
 
 Highlights
 ----------
