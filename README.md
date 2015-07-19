@@ -19,7 +19,7 @@ Building
 In your favorite shell, set your working directory to the project root and
 build TicTacToe with `gradle`:
 
-    $ gradle clean build uberjar
+    $ gradle clean build uberjar --daemon
 
 
 Running
@@ -67,19 +67,19 @@ Development
 
 Developed with:
 
-* [Groovy](http://groovy.codehaus.org/) 2.4.3
-* [Gradle](http://www.gradle.org/) 2.4
+* [Groovy](http://groovy.codehaus.org/) 2.4.4
+* [Gradle](http://www.gradle.org/) 2.5
 * [JUnit](http://junit.org/) 4.12
 
 
 Release History
 ---------------
 
-0.9.17 - 17 May 2015
+0.9.18 - 19 July 2015
 
 * Upgraded dependencies.
 
-0.9.1 &ndash; 0.9.16
+0.9.1 &ndash; 0.9.17
 
 * Upgraded dependencies.
 
