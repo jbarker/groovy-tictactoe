@@ -67,8 +67,8 @@ Development
 
 Developed with:
 
-* [Groovy](http://groovy.codehaus.org/) 2.4.5
-* [Gradle](http://www.gradle.org/) 2.10
+* [Groovy](http://www.groovy-lang.org/) 2.4.5
+* [Gradle](https://gradle.org/) 2.10
 * [JUnit](http://junit.org/) 4.12
 
 
